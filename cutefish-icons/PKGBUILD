@@ -2,9 +2,9 @@
 pkgname=cutefish-icons-git
 pkgver=r8.1eeea5ea
 pkgrel=1
-pkgdesc="Cutefish Icons"
+pkgdesc="astraOS Icons"
 arch=('any')
-url="https://github.com/cutefishos/icons.git"
+url="https://github.com/teamsakuraos/icons-2.git"
 license=('GPL3')
 groups=('cutefish-git')
 depends=()
