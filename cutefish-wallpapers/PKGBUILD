@@ -2,9 +2,9 @@
 pkgname=cutefish-wallpapers-git
 pkgver=r4.8d029e8
 pkgrel=1
-pkgdesc="Cutefish Wallpapers"
+pkgdesc="astraOS Wallpapers"
 arch=('any')
-url="https://github.com/cutefishos/wallpapers.git"
+url="https://github.com/teamsakuraos/wallpapers.git"
 license=('GPL3')
 groups=('cutefish-git')
 depends=()
